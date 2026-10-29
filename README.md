@@ -4,7 +4,7 @@ Aplikasi desktop berbasis **Java Swing** untuk menghitung gaji karyawan dan meng
 
 Project ini dibuat sebagai tugas perkuliahan Program Studi Teknologi Informasi, Universitas Bina Sarana Informatika (Depok).
 
-> **Catatan:** Ini aplikasi desktop, bukan aplikasi web. Aplikasi membutuhkan Java dan MySQL di komputer Anda, sehingga **tidak dapat dijalankan lewat GitHub Pages atau browser**. Ikuti langkah instalasi di bawah, atau lihat bagian [Tampilan Aplikasi](#tampilan-aplikasi).
+> **Catatan:** Ini aplikasi desktop, bukan aplikasi web. Aplikasi membutuhkan Java dan MySQL di komputer Anda, sehingga **tidak dapat dijalankan lewat GitHub Pages atau browser**. Ikuti langkah instalasi di bawah.
 
 ## Fitur
 
